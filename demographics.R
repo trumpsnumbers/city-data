@@ -1,0 +1,1 @@
+city.list <- c("Erie, PA", "Webster, Iowa", "Dayton, Ohio")
